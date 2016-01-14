@@ -16,3 +16,4 @@
 14. Pop Art your profile.
 15. IWT with React.
 16. TODO app on steroids with GraphQL + Relay.
+17. Function approximation using RBFs, with React and D3.js.
